@@ -1,5 +1,5 @@
-name: overseerr
-adopt-info: overseerr
+name: overseerr-gh0stnet
+adopt-info: overseerr-gh0stnet
 license: MIT
 summary: Request management and media discovery tool for the Plex ecosystem.
 description: >
